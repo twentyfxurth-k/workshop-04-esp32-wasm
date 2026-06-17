@@ -1,0 +1,21 @@
+{
+  "name": "bongbaeng",
+  "colors": {
+    "body": "#F2C14E",
+    "bg": "#0E0E0E",
+    "text": "#FFFFFF",
+    "textDim": "#808080",
+    "ink": "#1A1A1A"
+  },
+  "states": {
+    "sleep": "sleep.gif",
+    "idle": [
+      "idle.gif"
+    ],
+    "busy": "busy.gif",
+    "attention": "attention.gif",
+    "celebrate": "celebrate.gif",
+    "dizzy": "dizzy.gif",
+    "heart": "heart.gif"
+  }
+}
